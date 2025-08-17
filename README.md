@@ -38,5 +38,14 @@ It simplifies **food ordering, menu management, and order tracking** for a campu
 ---
 
 ## Project Structure
-<pre> ```plaintext Canteen_Management/ ├── src/ # Java source code (Servlets, Utils) ├── WebContent/ # JSPs, CSS, JS, web.xml ├── build/ # Compiled classes (ignored in Git) ├── canteenDB/ # Derby DB files (ignored in Git) ├── .classpath # Eclipse config (ignored in Git) ├── .project # Eclipse config (ignored in Git) └── README.md ``` </pre>
+```
+Canteen_Management/ 
+├── src/ # Java source code (Servlets, Utils)
+├── WebContent/ # JSPs, CSS, JS, web.xml
+├── build/ # Compiled classes (ignored in Git)
+├── canteenDB/ # Derby DB files (ignored in Git)
+├── .classpath # Eclipse config (ignored in Git)
+├── .project # Eclipse config (ignored in Git)
+└── README.md
+```
 
