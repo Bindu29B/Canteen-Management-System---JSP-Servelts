@@ -1,0 +1,23 @@
+#Eclipse  project files
+.classpath
+.project
+.settings/
+
+#Build directories
+/build/
+/target/
+/out/
+
+#Java class files
+*.class
+
+#Derby database files
+/canteenDB/
+
+#IDE files (VS Code, IntelliJ)
+.vscode/
+.idea/
+
+#OS specific
+.DB_Store
+Thumbs.db
